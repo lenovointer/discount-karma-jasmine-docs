@@ -10,4 +10,4 @@
 
 
 
-[1]: images/test.png
+[1]: imgs/test.png
